@@ -42,7 +42,7 @@ W momencie próby wykonania niedozwolonej operacji (na przykład dodania projekt
 
 Plugins
 =======
-IntelliGrape/Grails-Image-Gallery-Plugin
+https://github.com/IntelliGrape/Grails-Image-Gallery-Plugin
 
 
 
