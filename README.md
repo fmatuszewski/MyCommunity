@@ -40,6 +40,9 @@ Po połączeniu się z Modułem Budżetu użytkownik ma standardowy zestaw upraw
 Utworzenie Konta.
 W momencie próby wykonania niedozwolonej operacji (na przykład dodania projektu) Użytkownik zostaje przekierowany do panelu logowania Modułu logowania. Istnieje także możliwość przekierowania do strony logowania poprzez przyciśnięcie przycisku [Login] Z poziomu panelu logowania użytkownik ma możliwość zarejestrowania konta użytkownika. Podczas rejestracji użytkownik musi podać podstawowe informacje takie jak Imie Nazwisko Adres Email i opcjonalnie numer telefonu, pesel. Podczas rejestracji użytkownikowi zostaje zaprezentowany rysunek Captcha którego celem jest zweryfikowanie czy użytkownik jest człowiekiem a nie botem. Po zarejestrowaniu konta użytkownika zostaje wysłany na adres email wiadomość z prośbą o potwierdzenia adresu email. Dopiero po potwierdzeniu adresu email użytkownik zostaje aktywowany (flaga enabled zmienia się z wartości domyślnej false na wartość true).
 
+Plugins
+=======
+IntelliGrape/Grails-Image-Gallery-Plugin
 
 
 
